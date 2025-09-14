@@ -54,7 +54,7 @@ function createMaps() {
         "raster-tiles": {
           type: "raster",
           tiles: [
-            "https://api.mapbox.com/styles/v1/miceoroni/cmc854pa500ad01s49qlrdftp/tiles/{z}/{x}/{y}?access_token=" + map_key
+            "https://api.mapbox.com/styles/v1/freakydreakylol/cmehnnqfo004801s4gnv3fpiv/tiles/{z}/{x}/{y}?access_token=" + map_key
           ],
           tileSize: 512,
         },
